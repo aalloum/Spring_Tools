@@ -1,25 +1,12 @@
 # Spring_Tools
-Le processus est relativement simple. Inscrit-toi sur [spring-professional-certification] (https://pivotal.io/training/certification/spring-professional-certification) et payes 225$. Ils t'enverront le mot de passe pour y accéder à l'examen dans un jour ouvrable.
+Le processus est relativement simple. 
+Inscrit-toi sur [spring-professional-certification] (https://pivotal.io/training/certification/spring-professional-certification) et payes 225$. Ils t'enverront le mot de passe pour y accéder à l'examen dans un jour ouvrable.
 
 Ensuite il faut y aller au examslocal pour planifier la date de l'exam que tu veux.
 
 ( tu as une période de 3 mois pour donner l'examen /!\ )
 
 Le score que tu dois obtenir est un peu élevé (76%). Cela signifie à partir d'un ensemble de 50 questions, tu dois avoir au moins 38. (38/50 pour passer) 76%.
-
-
-EXAM TOPICS Topics
-
-Container (28%)
-AOP (14%)
-JDBC (4%)
-Transactions (10%)
-MVC (10%)
-Security (6%)
-REST (6%)
-JPA Spring Data (4%)
-Boot (14%)
-Testing (4%).
 
 Time Spent:
 
