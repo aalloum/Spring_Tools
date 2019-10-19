@@ -35,11 +35,11 @@
 
 ## La documentation officielle de Spring Core 5.
 - [Pivotal Documentation](https://github.com/aalloum/Spring_Tools/tree/master/Spring_Certif_Preparation/Pivotal_Documentation)
+- [Questions/Réponses](https://github.com/MrR0807/SpringCertification5.0)
 - Spring in Action (je le recommande)
 - Pivotal Certified Professional Spring Developer Exam (je le recommande)
 
 ## Mock Exams et notes:
 
 - Mock Exam site : (optional) https://www.certification-questions.com/spring-certification-questions.html
-- Questions/Réponses : https://github.com/MrR0807/SpringCertification5.0
 - Notes : https://github.com/vojtechruz/spring-core-cert-notes-4.2/blob/master/Spring%20Core%20Certification%20Notes%204.2.md
