@@ -1,5 +1,5 @@
 # Spring_Tools
-Le processus est relativement simple. Inscrit-toi sur  spring-professional-certification et payes 225$. Ils t'enverront le mot de passe pour y accéder à l'examen dans un jour ouvrable.
+Le processus est relativement simple. Inscrit-toi sur [spring-professional-certification] (https://pivotal.io/training/certification/spring-professional-certification) et payes 225$. Ils t'enverront le mot de passe pour y accéder à l'examen dans un jour ouvrable.
 
 Ensuite il faut y aller au examslocal pour planifier la date de l'exam que tu veux.
 
