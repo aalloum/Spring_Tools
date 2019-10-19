@@ -6,6 +6,22 @@
 - Ensuite il faut y aller au [examslocal](https://www.examslocal.com/) pour planifier la date de l'exam que tu veux.(tu as une période de 3 mois pour donner l'examen)
 - Le score que tu dois obtenir est un peu élevé (76%). Cela signifie à partir d'un ensemble de 50 questions, tu dois avoir au moins 38. (38/50 pour passer).
 
+## EXAM TOPICS:
+- Container (20%)
+- AOP (8%)
+- JDBC (4%)
+- Transactions (8%)
+- MVC (8%)
+- Security (6%)
+- REST (6%)
+- JPA Spring Data (4%)
+- Testing (4%)
+- Boot Into (8%)
+- Boot Autoconfig (8%)
+- Boot Actuator (8%)
+- Boot Testing (8%)
+
+
 ## Time Spent:
 
  Le temps total de préparation:
