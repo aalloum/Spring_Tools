@@ -3,7 +3,7 @@
 ## Le processus:
  
 - Inscrit-toi sur [spring-professional-certification](https://pivotal.io/training/certification/spring-professional-certification)
-- Ensuite il faut y aller au examslocal pour planifier la date de l'exam que tu veux.(tu as une période de 3 mois pour donner l'examen)
+- Ensuite il faut y aller au [examslocal](https://www.examslocal.com/) pour planifier la date de l'exam que tu veux.(tu as une période de 3 mois pour donner l'examen)
 - Le score que tu dois obtenir est un peu élevé (76%). Cela signifie à partir d'un ensemble de 50 questions, tu dois avoir au moins 38. (38/50 pour passer).
 
 ## Time Spent:
@@ -18,9 +18,9 @@
 - Phase 2 ---> 1mois: Exercices et Mock d’exams
 
 ## La documentation officielle de Spring Core 5.
+- [Pivotal Documentation](https://github.com/aalloum/Spring_Tools/tree/master/Spring_Certif_Preparation/Pivotal_Documentation)
 - Spring in Action (je le recommande)
 - Pivotal Certified Professional Spring Developer Exam (je le recommande)
-- Pivotal Documentation 
 
 ## Mock Exams et notes:
 
