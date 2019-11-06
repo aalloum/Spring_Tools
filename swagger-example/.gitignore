@@ -43,7 +43,6 @@ src/**/*.js.map
 # JRebel
 rebel.xml
 
-README.md
 !**/src/main/**
 !**/src/test/**
 
